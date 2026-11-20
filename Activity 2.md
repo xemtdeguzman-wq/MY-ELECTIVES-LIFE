@@ -39,19 +39,27 @@ create a visual identity appropriate for a jewelry brand.
 
 ### 💎 Personal Logo
 
-<div align="center">
-
-<img src="PERSONAL%20LOGO_DE%20GUZMAN.png" width="70%" alt="XEM Fashion Jewelry Personal Logo">
-
-</div>
+<p align="center">
+  <img src="logo.png" width="70%">
+</p>
 
 ### 🎀 Logo with Tagline
 
-<div align="center">
+<p align="center">
+  <img src="tagline.png" width="70%">
+</p>
 
-<img src="TAGLINE_DE%20GUZMAN.png" width="70%" alt="XEM Fashion Jewelry Logo and Tagline">
+### 🎨 Color Palette & Typography Set
 
-</div>
+<p align="center">
+  <img src="palette.png" width="80%">
+</p>
+
+### 💌 Business Card
+
+<p align="center">
+  <img src="card.png" width="80%">
+</p>
 
 ---
 
@@ -167,71 +175,3 @@ brand's personality:
 | ✨ **Decorative typography** | Creates an elegant fashion-oriented identity |
 
 ---
-
-<div align="center">
-
-## 🌙 ˚₊‧ Design Concept ‧₊˚🌙
-
-### 🎀 Feminine • Elegant • Fashionable • Delicate 🎀
-
-💗 ─────────── ✦ ─────────── 💗
-
-**XEM FASHION JEWELRY**
-
-*Turning Moments Into Treasures*
-
-💗 ─────────── ✦ ─────────── 💗
-
-</div>
-
----
-
-## 🌸 Overall Design Rationale
-
-The combination of the **pink and rose color palette, elegant typography,
-and decorative illustrations** was intentionally selected to communicate
-the personality of XEM Fashion Jewelry.
-
-The colors establish a feminine and delicate mood, while the typography gives
-the brand a sophisticated and fashionable appearance. The bow, flowers,
-beads, and hand illustration further support the jewelry concept and make the
-logo more visually distinctive.
-
-The tagline, **"TURNING MOMENTS INTO TREASURES,"** strengthens the concept by
-connecting jewelry with meaningful memories and special moments.
-
----
-
-## 💜 Design Takeaway
-
-This activity helped me understand how **color and typography work together
-to create a brand identity**.
-
-I learned that choosing colors is not only about making a design attractive;
-colors can communicate emotions and characteristics associated with a brand.
-Similarly, typography can influence whether a design feels elegant, modern,
-playful, or professional.
-
-For my XEM Fashion Jewelry design, the combination of **pink tones, white
-space, elegant typography, and decorative elements** creates a visual identity
-that reflects the intended personality of the brand.
-
----
-
-<div align="center">
-
-## 💜 ˚₊‧꒰ა CREATE • STYLE • EXPRESS ໒꒱ ‧₊˚ 💜
-
-🌷 ✨ 🎀 🦋 💎 🪻 💎 🦋 🎀 ✨ 🌷
-
-### 👩🏻‍🎓 Prepared by
-
-**Xyza Elyne Mariz T. De Guzman**
-
-**GE 4120**
-
-*Presentation Design Portfolio*
-
-🌸 *Turning Ideas Into Visual Stories* 🌸
-
-</div>
