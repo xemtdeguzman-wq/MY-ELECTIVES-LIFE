@@ -14,7 +14,7 @@
 
 ### 🪻 PRESENTATION OUTPUT 🪻
 
-<img src="ACTIVITY%201-%20GE%204120_DE%20GUZMAN.png" width="75%" alt="Free Coffee Presentation">
+<img src="./activity1-free-coffee.png" width="75%" alt="Free Coffee Presentation">
 
 <br>
 
