@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 🌿 GOOGLE SHEETS
@@ -12,7 +11,9 @@
 
 *A beginner-friendly guide to Google Sheets and digital productivity.*
 
-[📄 View Original Presentation](Activity-4-Google-Sheets-Presentation.pdf)
+### [📄 View the Presentation (PDF)](./Activity-4-Google-Sheets-Presentation.pdf)
+
+[⬇️ Download PDF](./Activity-4-Google-Sheets-Presentation.pdf?raw=true)
 
 </div>
 
@@ -196,7 +197,7 @@ Example: Temperature ≥ 38°C → highlight the cell.
 
 <div align="center">
 
-[📄 OPEN THE FULL PRESENTATION (PDF)](Activity-4-Google-Sheets-Presentation.pdf)
+### [📄 OPEN THE FULL PRESENTATION (PDF)](./Activity-4-Google-Sheets-Presentation.pdf)
 
 *Learn · Explore · Create* 🌿
 
