@@ -192,9 +192,19 @@ The website features a nature-inspired design using forest green, deep green, mi
 - Create interactive website features.
 - Use digital platforms to promote environmental awareness.
 
+<p align="center">
+  🌱 **LESS PLASTIC, MORE LIFE** 🌱
+</p>
+
+<p align="center">
+  <a href="https://claude.ai/share/018909c5-18a4-48a8-a20e-5b538eed6668">
+    <img src="https://img.shields.io/badge/VISIT%20MY%20WEBSITE-Click%20Here-F8BBD0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit My Website">
+  </a>
+</p>
+
 📄 **[View Activity 6 Documentation](Activity6.md)**
 
-🌱 **[Visit the Website](index.html)**
+🌐 **[Open Less Plastic, More Life Website](https://claude.ai/share/018909c5-18a4-48a8-a20e-5b538eed6668)**
 
 ---
 
@@ -236,7 +246,7 @@ All activity pages and supporting files are organized in this repository.
 | Activity 3 | [Activity3.md](Activity3.md) | [Infographic](infographic.png) |
 | Activity 4 | [Activity4.md](Activity4.md) | [Presentation PDF](Activity-4-Google-Sheets-Presentation.pdf) |
 | Activity 5 | [Activity5.md](Activity5.md) | [Activity PDF](activity5-myasthenia-gravis.pdf) |
-| Activity 6 | [Activity6.md](Activity6.md) | [Website](index.html) |
+| Activity 6 | [Activity6.md](Activity6.md) | [Visit Website](https://claude.ai/share/018909c5-18a4-48a8-a20e-5b538eed6668) |
 | Activity 7 | [Activity7.md](Activity7.md) | [Resume](resume.pdf) · [Activity PDF](DE%20GUZMAN_ACTIVITY7.pdf) |
 
 ---
