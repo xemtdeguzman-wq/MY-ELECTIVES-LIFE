@@ -108,19 +108,9 @@ Medication errors can negatively affect patients, healthcare professionals, heal
 
 ## 🎨 DIGITAL MEDICATION VERIFICATION SYSTEM
 
-<div align="center">
-
-### 🩺 NURSING + TECHNOLOGY = SAFER PATIENT CARE
-
-**Using barcode technology to verify:**
-
-### 👤 RIGHT PATIENT
-### 💊 RIGHT MEDICATION
-### ⚖️ RIGHT DOSE
-### 💉 RIGHT ROUTE
-### 🕐 RIGHT TIME
-
-</div>
+<p align="center">
+  <img src="infographic.png" width="80%">
+</p>
 
 ---
 
@@ -218,3 +208,4 @@ This supports more consistent and accessible medication documentation.
         ▼
        📝
     DOCUMENT
+```
